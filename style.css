@@ -1,0 +1,41 @@
+.fb {
+    font-family: monospace;
+    font-weight: 200px !important;
+    font-size: 35px;
+    text-align: center;
+}
+
+.link {
+    font-size: 30px;
+    font-family: monospace;
+    color: aliceblue;
+}
+
+.ig {
+    font-family: monospace;
+    font-weight: 200px !important;
+    font-size: 35px;
+    text-align: center;
+}
+
+.twt {
+    font-family: monospace;
+    font-weight: 200px !important;
+    font-size: 35px;
+    text-align: center;
+}
+
+.ft {
+    color: aliceblue;
+    font-family: Georgia !important;
+    font-size: 20px !important;
+    text-align: center;
+}
+
+p {
+    font-family:Verdana;
+    font-weight: 100px;
+    font-size: 18px;
+    text-align: justify;
+}
+
